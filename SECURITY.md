@@ -7,10 +7,18 @@ currently being supported with security updates.
 
 | Version | Supported        |
 | ----- | ------------------ |
-| 1.0   | :white_check_mark: |
-| 1.1   | :x:                |
-| 1.2   | :x:                |
-| > 1.2   | :x:              |
+| 1.0   | Released ⭕ |
+| 1.1   | Up Comming ❌|
+| 1.2   |Up Comming ❌            |
+| 1.3   | Up Comming ❌           |
+| 1.4   | Up Comming ❌ |
+| 1.5   | Up Comming ❌ |
+| 1.6|Up Comming ❌|
+|1.7|Up Comming ❌|
+|1.8|Up Comming ❌|
+|1.9|Up Comming ❌|
+|2.0+|Up Comming ❌|
+
 
 ## Reporting a Vulnerability
 
